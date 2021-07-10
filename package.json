@@ -1,0 +1,34 @@
+{
+  "name": "puredoc",
+  "version": "1.0.0",
+  "description": "Clean and modern documentation",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psyGamer/pureDoc.git"
+  },
+  "bin": {
+    "puredoc": "./bin/puredoc.js",
+    "pd": "./bin/puredoc.js"
+  },
+  "keywords": [
+    "docs",
+    "documentation",
+    "modern"
+  ],
+  "author": "psyGamer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psyGamer/pureDoc/issues"
+  },
+  "homepage": "https://github.com/psyGamer/pureDoc#readme",
+  "dependencies": {
+    "command-line-args": "^5.1.1"
+  }
+}
