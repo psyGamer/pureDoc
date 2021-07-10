@@ -28,7 +28,4 @@
     "url": "https://github.com/psyGamer/pureDoc/issues"
   },
   "homepage": "https://github.com/psyGamer/pureDoc#readme",
-  "dependencies": {
-    "command-line-args": "^5.1.1"
-  }
 }
